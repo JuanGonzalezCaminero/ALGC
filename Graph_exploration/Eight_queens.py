@@ -1,0 +1,4 @@
+
+board = []
+
+def queens():
